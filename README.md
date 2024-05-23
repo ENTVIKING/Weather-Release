@@ -1,2 +1,2 @@
-# Weather-V1
-Simple Android weather application in Java programming language
+# Weather-release
+Android application of meteorology with online API, in Java programming language - with the ability to search the weather of the whole world
